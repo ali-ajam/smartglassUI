@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UI</string>
+    <string name="title_activity_main2">DetailsActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Image</string>
+    <string name="title_notifications">Video</string>
+</resources>
